@@ -1,18 +1,18 @@
 `timescale 1ns / 1ps
 
 module sbox(
+
     input  wire [7:0] in,
-    output reg  [7:0] out
+    output wire [7:0] out
+
 );
 
-always @(*) begin
-    case (in)
+reg [7:0] sbox_mem [0:255];
 
-        // S-Box values will go here
-
-        default: out = 8'h00;
-
-    endcase
+initial begin
+    $readmemh("rtl/sbox.mem", sbox_mem);
 end
+
+assign out = sbox_mem[in];
 
 endmodule
