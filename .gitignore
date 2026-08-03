@@ -23,3 +23,14 @@ results/
 
 # Python
 __pycache__/
+
+# Verilator
+obj_dir/
+
+# Editor files
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
