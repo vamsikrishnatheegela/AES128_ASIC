@@ -1,0 +1,25 @@
+# Simulation
+*.vcd
+*.fst
+*.log
+
+# Reports
+*.rpt
+
+# Build
+build/
+results/
+
+# OpenROAD
+*.odb
+*.def
+*.lef
+*.gds
+*.spef
+
+# Temporary
+*.tmp
+*.bak
+
+# Python
+__pycache__/
