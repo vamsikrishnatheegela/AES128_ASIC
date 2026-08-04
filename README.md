@@ -145,7 +145,8 @@ Final ASIC Layout
 ## Floorplan
 
 <p align="center">
-<img src="images/final_placement.png" width="700">
+<img src="<img width="780" height="668" alt="Screenshot from 2026-08-04 23-06-08" src="https://github.com/user-attachments/assets/77662348-3d87-4add-a755-913b89ed5f90" />
+" width="700">
 </p>
 
 ---
@@ -153,7 +154,8 @@ Final ASIC Layout
 ## Placement
 
 <p align="center">
-<img src="images/final_placement.png" width="700">
+<img src="<img width="1099" height="1099" alt="image" src="https://github.com/user-attachments/assets/52352c3e-de66-41d3-9b57-56ce932ef473" />
+" width="700">
 </p>
 
 ---
@@ -161,7 +163,8 @@ Final ASIC Layout
 ## Routing Congestion
 
 <p align="center">
-<img src="images/final_congestion.png" width="700">
+<img src="<img width="1099" height="1099" alt="image" src="https://github.com/user-attachments/assets/786aecaa-18df-4495-933c-f77e3ce5cffd" />
+" width="700">
 </p>
 
 ---
@@ -169,7 +172,8 @@ Final ASIC Layout
 ## Clock Tree
 
 <p align="center">
-<img src="images/final_clocks.png" width="700">
+<img src="<img width="952" height="954" alt="Screenshot from 2026-08-04 23-10-33" src="https://github.com/user-attachments/assets/b4055b56-2eb1-489b-b80b-187382593128" />
+" width="700">
 </p>
 
 ---
@@ -177,7 +181,8 @@ Final ASIC Layout
 ## Global Routing
 
 <p align="center">
-<img src="images/final_routing.png" width="700">
+<img src="<img width="1099" height="1099" alt="image" src="https://github.com/user-attachments/assets/ebbe0b7f-fc30-4b66-b3d5-497918ad822e" />
+" width="700">
 </p>
 
 ---
@@ -185,7 +190,8 @@ Final ASIC Layout
 ## IR Drop Analysis
 
 <p align="center">
-<img src="images/final_ir_drop.png" width="700">
+<img src="<img width="1099" height="1099" alt="image" src="https://github.com/user-attachments/assets/1113c6fc-6f66-4827-9eae-5e8a6c713dbe" />
+" width="700">
 </p>
 
 ---
@@ -193,7 +199,8 @@ Final ASIC Layout
 ## Critical Timing Path
 
 <p align="center">
-<img src="images/final_worst_path.png" width="700">
+<img src="<img width="1099" height="1099" alt="image" src="https://github.com/user-attachments/assets/3e29081a-4bd2-4dbf-aaea-83cc0d12433c" />
+" width="700">
 </p>
 
 ---
@@ -201,7 +208,8 @@ Final ASIC Layout
 ## Final GDSII Layout
 
 <p align="center">
-<img src="images/final_layout.png" width="900">
+<img src="<img width="1022" height="875" alt="Screenshot from 2026-08-04 22-45-45" src="https://github.com/user-attachments/assets/0598f606-e29e-450d-b615-0f4c67f44973" />
+" width="900">
 </p>
 
 ---
